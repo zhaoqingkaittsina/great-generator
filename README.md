@@ -1,4 +1,4 @@
-## 创建项目
+## 一、创建项目
 ```
 // 1、创建空目录
 mkdir demo03-great-generator01
