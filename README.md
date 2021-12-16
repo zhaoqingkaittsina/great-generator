@@ -62,7 +62,7 @@ module.exports = {
 
 ## 优化
 ### 查看依赖关系
-https://www.cnblogs.com/vvjiang/p/9327903.html
+参考地址：https://www.cnblogs.com/vvjiang/p/9327903.html  
 这个东西不算是优化，而是让我们可以清晰得看到各个包的输出文件体积与交互关系。
 ```
 npm install --save-dev webpack-bundle-analyzer
